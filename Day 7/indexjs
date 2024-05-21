@@ -1,0 +1,17 @@
+a=0.1;b=0.2;
+c=a+b
+
+console.log(c.toPrecision(1));
+
+var ns=[]
+ns[0]="nikki";
+ns[1]="nimmi";
+ns[2]="raju";
+ns[3]=100;
+ms=ns.join("");
+console.log(ms)
+
+
+const points = new Array(40);
+console.log(Array.isArray(points))
+
